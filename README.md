@@ -14,3 +14,5 @@ Bootstrap Table: The table should have the same number of columns as shown in th
 Bootstrap Form: The form should look identical to the one shown in the Figma file. The first name and last name fields should be in a flex-row layout on the desktop but in a flex-column layout on mobile view. All other inputs should take up the full width. The submit form button should also be included. (15 Marks)
 Deployed (10 Marks)
 Bonus: Please make sure to use bootstrap to design the UI, which should be fully responsive. Bonus marks for making it responsive. (15 Marks)
+f1.jpg
+C:\Users\HP\Desktop\f1 module test\F1-Module\p.jpg
