@@ -1,0 +1,10 @@
+.custom-class{
+    display: flex;
+    flex-direction: row;
+}
+
+@media(max-width: 576px) {
+    .custom-class{
+        flex-direction: column-reverse;
+    }
+}
